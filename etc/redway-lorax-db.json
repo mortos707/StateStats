@@ -1,0 +1,7 @@
+{
+    "db_name": "lorax",
+    "db_type": "mysql",
+    "hostname": "redway.mooseriver.com",
+    "password": "chujbpt3",
+    "user": "bdobbs"
+}
